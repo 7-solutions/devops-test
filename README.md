@@ -39,7 +39,3 @@ Time limit
 ===========
 7 days after received this challenge.
 
-Final step
-===========
-Successful candidates will be invited to an in-person interview.
-We may ask you more details of your code choices.
